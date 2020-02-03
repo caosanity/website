@@ -24,7 +24,7 @@ header{
   padding-left: 10px;
 }
 h3, h4 {
-  color: #330033;
+  color: #003366;
   font-size: large;
   font-weight: bold;
 }
@@ -131,7 +131,7 @@ a:active {
 }
 .navBar a {
   float: left;
-  color: #ffffff;
+  color: #f2f2f2;
   text-align: center;
   padding: 5px;
   text-decoration: none;
